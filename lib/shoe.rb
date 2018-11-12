@@ -11,8 +11,6 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  def condition.new
-end
-
+  shoe.new
 
 end
