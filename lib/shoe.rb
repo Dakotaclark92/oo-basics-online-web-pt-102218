@@ -1,2 +1,2 @@
-class shoe
+class Shoe
 end
